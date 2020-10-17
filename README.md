@@ -1,0 +1,2 @@
+# mclist
+Lista serwerów minecraftowych
